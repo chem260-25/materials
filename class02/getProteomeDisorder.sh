@@ -1,0 +1,1 @@
+../../02_linux_basics/FILES/getProteomeDisorder.sh
