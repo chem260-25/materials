@@ -6,7 +6,7 @@ set ylabel 'y-axis'
 set title 'A Plot'
 set key top right  # Legend at top right
 set label 'Hello' at 5,0.004
-set label 'Hi!' at 5.15,0.004 textcolor "blue"
+set label 'Hi!' at 5.15,0.004 textcolor rgb "blue"
 set xrange [4.3:6]
 set yrange [-0.006:0.012]
 set grid  # Sets grid in the background
